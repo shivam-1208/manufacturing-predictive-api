@@ -14,6 +14,8 @@ This project provides a RESTful API for predicting machine downtime in manufactu
    cd manufacturing-predictive-api
 2.Install the required packages:
   pip install -r requirements.txt
+
+  
 3.Running the API
   Run the application:
   python app.py
