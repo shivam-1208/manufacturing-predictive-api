@@ -14,6 +14,7 @@ This project provides a RESTful API for predicting machine downtime in manufactu
   pip install -r requirements.txt
 
 3.Running the API
+  
   Run the application:
   python app.py
   The API will be available at http://127.0.0.1:5000.
