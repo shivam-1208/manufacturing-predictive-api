@@ -1,0 +1,7 @@
+/manufacturing-predictive-api
+├── app.py                  # Main application file
+├── model.py                # Model training and prediction logic
+├── requirements.txt        # Python dependencies
+├── data                    # Directory for datasets
+│   └── sample_data.csv     # Sample dataset for testing
+└── README.md               # Documentation file
